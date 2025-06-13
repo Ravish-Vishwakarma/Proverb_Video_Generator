@@ -1,0 +1,8 @@
+add poverbs in the following format in the data.txt file, seperated by a blank line in between
+----------------
+"A fool learns from his own mistakes, a wise man learns from others’s mistakes"
+"Smart people learn by observing others' failures."
+
+"Actions speak louder than words"
+"What you do matters more than what you say."
+-----------------

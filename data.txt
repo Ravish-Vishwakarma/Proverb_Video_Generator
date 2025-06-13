@@ -1,0 +1,260 @@
+"A fool learns from his own mistakes, a wise man learns from others’s mistakes"
+"Smart people learn by observing others' failures."
+
+"Actions speak louder than words"
+"What you do matters more than what you say."
+
+"Don't count your chickens before they hatch"
+"Don't assume success before it happens."
+
+"A stitch in time saves nine"
+"Fixing a small problem early prevents bigger issues later."
+
+"You reap what you sow"
+"Your actions determine your results."
+
+"Where there’s a will, there’s a way"
+"Determination can overcome obstacles."
+
+"Look before you leap"
+"Think carefully before taking action."
+
+"The early bird catches the worm"
+"Being proactive leads to success."
+
+"Too many cooks spoil the broth"
+"Too many people working on something can ruin it."
+
+"All that glitters isn't gold"
+"Not everything that looks valuable is truly so."
+
+"Rome wasn’t built in a day"
+"Great things take time and effort."
+
+"Honesty is the best policy"
+"Being truthful is always the right choice."
+
+"Practice makes perfect"
+"Repeated effort leads to improvement."
+
+"Better late than never"
+"It's better to do something late than not at all."
+
+"Don't put all your eggs in one basket"
+"Don't risk everything on a single plan."
+
+"Birds of a feather flock together"
+"People with similar interests stay together."
+
+"When in Rome, do as the Romans do"
+"Adapt to local customs when in a new place."
+
+"Haste makes waste"
+"Rushing can lead to mistakes and wasted effort."
+
+"No pain, no gain"
+"Hard work is necessary for success."
+
+"Fortune favors the bold"
+"Taking risks often leads to success."
+
+"You can't judge a book by its cover"
+"Appearances can be misleading."
+
+"A penny saved is a penny earned"
+"Saving money is just as valuable as earning it."
+
+"An apple a day keeps the doctor away"
+"Healthy habits prevent illness."
+
+"Every cloud has a silver lining"
+"There's something good in every bad situation."
+
+"Necessity is the mother of invention"
+"Challenges lead to creative solutions."
+
+"A rolling stone gathers no moss"
+"Being active prevents stagnation."
+
+"Still waters run deep"
+"Quiet people often have deep thoughts."
+
+"Do unto others as you would have them do unto you"
+"Treat others the way you want to be treated."
+
+"If it ain't broke, don't fix it"
+"Don't change something that works fine."
+
+"Little strokes fell great oaks"
+"Small efforts lead to big results over time."
+
+"Might makes right"
+"Power often determines the outcome."
+
+"Out of sight, out of mind"
+"What's not seen is easily forgotten."
+
+"The grass is always greener on the other side"
+"People think others have it better than them."
+
+"A fool and his money are soon parted"
+"Careless people lose their wealth quickly."
+
+"Waste not, want not"
+"Using resources wisely prevents future need."
+
+"What goes around comes around"
+"Your actions will eventually affect you."
+
+"Half a loaf is better than none"
+"Getting something is better than getting nothing."
+
+"God helps those who help themselves"
+"Effort attracts success."
+
+"There's no place like home"
+"Home is the most comfortable place."
+
+"Don't cry over spilled milk"
+"Don't stress over something that can't be changed."
+
+"Many hands make light work"
+"Teamwork makes tasks easier."
+
+"A leopard can't change its spots"
+"People don't change their true nature."
+
+"Don't bite the hand that feeds you"
+"Don't harm those who help you."
+
+"Slow and steady wins the race"
+"Consistency is better than rushing."
+
+"Beggars can't be choosers"
+"Be grateful for what you get."
+
+"Live and let live"
+"Respect others' choices and lifestyles."
+
+"Money doesn't grow on trees"
+"Money isn't easy to obtain."
+
+"Absence makes the heart grow fonder"
+"Being apart makes people appreciate each other more."
+
+"Jack of all trades, master of none"
+"Knowing many things but not mastering one is limiting."
+
+"It takes two to tango"
+"Both parties share responsibility in conflicts or agreements."
+
+"The pen is mightier than the sword"
+"Words and ideas are more powerful than force."
+
+"You can't have your cake and eat it too"
+"You can't enjoy two opposing benefits at the same time."
+
+"Easier said than done"
+"Talking is easy, but action is difficult."
+
+"Two wrongs don't make a right"
+"Revenge doesn't fix anything."
+
+"Familiarity breeds contempt"
+"Knowing someone too well can lead to lack of respect."
+
+"Don't judge a man until you've walked a mile in his shoes"
+"Understand others before making judgments."
+
+"Every dog has its day"
+"Everyone gets a chance at success."
+
+"Let sleeping dogs lie"
+"Don't stir up old conflicts."
+
+"Hope for the best, prepare for the worst"
+"Stay optimistic but be ready for difficulties."
+
+"You can't teach an old dog new tricks"
+"People resist learning new things as they age."
+
+"There's more than one way to skin a cat"
+"There are multiple ways to solve a problem."
+
+"Strike while the iron is hot"
+"Take action at the right moment."
+
+"He who hesitates is lost"
+"Delaying decisions can lead to failure."
+
+"Blood is thicker than water"
+"Family bonds are stronger than other relationships."
+
+"Don't put the cart before the horse"
+"Do things in the right order."
+
+"Don't cry wolf"
+"Don't lie or people will stop believing you."
+
+"The proof is in the pudding"
+"Results show the true value of something."
+
+"Time and tide wait for no man"
+"Time doesn't stop for anyone."
+
+"A house divided against itself can't stand"
+"Internal conflicts lead to failure."
+
+"Laughter is the best medicine"
+"Humor helps reduce stress and improve health."
+
+"The devil is in the details"
+"Small details are important."
+
+"Charity begins at home"
+"Help your own family before helping others."
+
+"Spare the rod, spoil the child"
+"Discipline is necessary for good behavior."
+
+"A chain is only as strong as its weakest link"
+"The weakest part determines overall strength."
+
+"Don't put off until tomorrow what you can do today"
+"Do tasks immediately instead of delaying them."
+
+"Nothing ventured, nothing gained"
+"Without risk, there's no reward."
+
+"Old habits die hard"
+"Changing routines is difficult."
+
+"A watched pot never boils"
+"Time seems slower when waiting impatiently."
+
+"It's always darkest before the dawn"
+"Things get worse before they improve."
+
+"Behind every great man, there's a great woman"
+"Supportive partners contribute to success."
+
+"If life gives you lemons, make lemonade"
+"Turn bad situations into positive outcomes."
+
+"What's good for the goose is good for the gander"
+"Rules should apply equally to everyone."
+
+"Dead men tell no tales"
+"Those who are gone can't reveal secrets."
+
+"Even a broken clock is right twice a day"
+"Even unreliable sources can be correct sometimes."
+
+"A problem shared is a problem halved"
+"Talking about problems makes them easier to handle."
+
+"Don't throw the baby out with the bathwater"
+"Don't discard the good while removing the bad."
+
+"You catch more flies with honey than with vinegar"
+"Kindness is more persuasive than harshness."
