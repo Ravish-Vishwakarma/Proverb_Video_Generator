@@ -5,4 +5,4 @@
 2. ffmpeg source code - [Download link](https://ffmpeg.org/download.html)
 
 
-- Buy executable -> https://ravishvish.gumroad.com/l/proverbgen
+> Buy executable -> https://ravishvish.gumroad.com/l/proverbgen
